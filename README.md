@@ -7,6 +7,7 @@ SmileScan is a comprehensive system designed to address dental issues in underse
 ## Images
 ![image](https://github.com/yashchavan10/SmileScan/assets/97660991/8aa57d7a-65ff-4778-ab8e-539f0d2a6cc2)
 ![image](https://github.com/yashchavan10/SmileScan/assets/97660991/1ffb5266-cc60-4475-befe-75a000946100)
+![image](https://github.com/yashchavan10/SmileScan/assets/97660991/99be7014-fa94-4194-a948-76919b7e4243)
 ![image](https://github.com/yashchavan10/SmileScan/assets/97660991/17d7df19-05e2-4bd2-9b6f-f5eaf205407a)
 ![image](https://github.com/yashchavan10/SmileScan/assets/97660991/baec0097-37f9-4574-a2ce-ffc03611353d)
 ![image](https://github.com/yashchavan10/SmileScan/assets/97660991/1030510c-6b44-479b-90e0-c583ea9abe3d)
